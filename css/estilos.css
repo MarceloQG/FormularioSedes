@@ -1,0 +1,1178 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    background: #FCF8F8;
+    height: 1900px;
+    width: 800px;
+   
+
+}
+header{
+    
+
+    border: black 3px solid;
+    background: #FEFFF2;
+    height: auto;
+    width: auto;
+    
+}
+.texto1 h1 {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+    margin-left: -48px;
+    
+}
+@media  (max-width: 767.98px) {
+   .texto1 {
+       margin-top: -20px;
+       text-align: center;
+       margin-left: 57px;
+       float: center;
+}
+   }
+  
+
+.texto1 h2{
+    font-size: 16px;
+    text-align: center;
+    margin-left: -48px;
+    float: center;
+}
+
+.texto1 h3{
+    font-size: 16px;
+    text-align: center;
+    margin-left: -48px;
+    float: center;
+}
+
+
+.logosedes img{
+   float: right;
+    margin-top: 40px;
+    padding-right: 30px;
+    height: 120px; 
+  
+       
+}
+@media( max-width: 579.98px){
+    .logosedes img{
+        height: 70px;
+        width: 70px;
+        float: right;
+        margin-top: -210px;
+        margin-right: -25px;
+        
+        
+    }
+ }
+.logocbba img{
+  float: left;
+    margin-top: 35px;
+    padding-right: -60px;
+}
+@media( max-width: 579.98px){
+     .logocbba{
+         height: 75px;
+         width: 50px;
+         float: left;
+         margin-left: 5px;
+        margin-top: -25px;
+        
+     }
+  }
+.cabecera1{
+
+    text-align: center;
+    border: black 2px solid;
+    background: #9CD87F;
+}
+.cabeceraa1{
+    
+    
+    border: black 2px solid;
+    background: #9CD87F;
+}
+.cabeceraa2{
+ 
+    border: black 1px solid;
+    height: auto;
+
+    
+}
+.textoo2{
+    margin-left: 80px;
+    margin-top: 5px;
+    float: left;    
+}
+
+.textoo2 ul li a{
+    color: black;
+    text-decoration: none;
+    display: inline;       
+}
+.textoo2 ul{
+    list-style: none;    
+}
+@media  (max-width: 767.98px) {
+    .textoo2 {
+        margin-left:20px;
+        
+    }
+ }
+.textoo3{
+    margin-left: 20px;
+    text-decoration: none; 
+    margin-top: 5px;
+    
+}
+@media  (max-width: 767.98px) {
+    .textoo3 {
+     margin-top: 10px;  
+     text-anchor: initial;
+     width: 80%;      
+    }
+ }
+.textoo3 ul{
+    list-style: none;
+}
+.textoo3 li a{
+    color: black;
+    text-decoration: none;
+    
+}
+.checkboxx1 input{
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 8px;
+}
+@media  (max-width: 767.98px) {
+    .checkboxx1 {
+        margin-left:190px;
+        margin-top: -117px;
+         float: right;
+         justify-content: center;
+        
+        
+    }
+ }
+.checkboxx2 input{
+    display: inline-block;
+    margin-left: -10px;
+    margin-top: 8.5px;
+}
+@media  (max-width: 767.98px) {
+    .checkboxx2  {
+        margin-left: 320px;
+         
+         float: right;
+         margin-top: -157px;
+        
+        
+        
+    }
+ }
+.cabecera2{
+    
+    border: black 2px solid;
+    background: #9CD87F;
+    color: black;
+
+}
+.cabecera3{
+ 
+    border: black 1px solid;
+    
+}
+.texto2{
+    margin-left: 80px;
+    margin-top: 5px;
+   
+    
+}
+
+.texto2 ul li a{
+    color: black;
+    text-decoration: none;
+    display: inline; 
+      
+}
+.texto2 ul{
+    list-style: none;
+}
+@media  (max-width: 767.98px) {
+    .texto2 {
+        margin-left:20px;
+        
+    }
+ }
+.texto3{
+    margin-left: 15px;
+    text-decoration: none; 
+    margin-top: 5px;  
+}
+.texto3 ul{
+    list-style: none;
+}
+.texto3 li a{
+    color: black;
+    text-decoration: none;
+    
+}
+.checkbox1 input{
+    display: inline-block;
+    margin-left: 125px;
+    margin-top: 7px;
+}
+@media  (max-width: 767.98px) {
+    .checkbox1 {
+        margin-left:190px;
+        margin-top: -140px;
+         float: right;
+         justify-content: center
+        
+        
+    }
+ }
+
+.checkbox2 input{
+    display: inline-block;
+    margin-left: 130px;
+    margin-top: 8px;
+}
+@media  (max-width: 767.98px) {
+    .checkbox2 {
+        margin-left:185px;
+        margin-top: -140px;
+         float: right;
+         justify-content: center
+        
+        
+    }
+ }
+.cabecera4{
+    
+    border: black 2px solid;
+    background: #9CD87F;
+
+    
+}
+.cabecera5{
+    background: #F3FBEC;
+
+    border: black 2px solid;
+    
+}
+.cabecera6{
+    border: black 1px solid;
+
+}
+.texto4{
+    margin-left: 80px;
+    text-decoration: none; 
+    margin-top: 5px;  
+    
+}
+.texto4 ul{
+    list-style: none;
+}
+.texto4 li a{
+    color: black;
+    text-decoration: none;
+    
+}
+@media  (max-width: 767.98px) {
+    .texto4  {
+        margin-left:10px;
+        
+    }
+ }
+
+.texto5{
+    margin-left: 20px;
+    text-decoration: none; 
+    margin-top: 5px;  
+}
+.texto5 ul{
+    list-style: none;
+}
+.texto5 li a{
+    color: black;
+    text-decoration: none;
+    
+}
+@media  (max-width: 767.98px) {
+    .texto5  {
+        margin-left:10px;
+    }
+ }
+.checkbox3 input{
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 120px;
+    margin-top: 9px;
+}
+@media  (max-width: 767.98px) {
+    .checkbox3 {
+        margin-left:195px;
+        margin-top: -70px;
+         float: right;
+         justify-content: center
+        
+        
+    }
+ }
+.checkbox4 input{
+    display: inline-block;
+    margin-left: 130px;
+    margin-top: 9px;
+}
+@media  (max-width: 767.98px) {
+    .checkbox4 {
+        margin-left:185px;
+        margin-top: -70px;
+         float: right;
+         justify-content: center;   
+        
+    }
+ }
+.cabecera7{
+    border: black 1px solid;
+
+}
+.texto6{
+    border: black 1px solid;
+
+}
+.texto6 h6{
+    margin-top: 5px;
+    font-size: 15px;
+    margin-left: 15px;
+    
+}
+.cabecera8{
+    border: black 1px solid;
+
+}
+.texto7{
+    border: black 1px solid;
+
+}
+.texto7 h6{
+    margin-top: 5px;
+    font-size: 15px;
+    margin-left: 15px;
+}
+    
+.texto8{
+        border: black 1px solid;
+    
+    }
+ .texto8 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        
+    }
+.cabecera9{
+        border: black 1px solid;
+    
+    }
+.texto9{
+        border: black 1px solid;
+    
+    }
+.texto9 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        padding-bottom: 3px; 
+    }
+    .cabecera10{
+        border: black 1px solid;
+    
+    }
+    .texto10{
+        border: black 1px solid;
+    
+    }
+    .texto10 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        padding-bottom: 3px; 
+    }
+        
+    .texto11{
+            border: black 1px solid;
+        
+        }
+     .texto11 h6{
+            margin-top: 5px;
+            font-size: 15px;
+            margin-left: 15px;
+            padding-bottom: 3px; 
+            
+        }
+    .cabecera11{
+            border: black 2px solid;
+            background: #F3FBEC;
+
+         
+        }
+    .cabecera11 h6 {
+        margin-top: 2px;
+        padding-bottom: 3px; 
+      
+
+    }
+    .cabecera12{
+        border: black 1px solid;
+       
+    
+    }
+    .texto13{
+        border: black 1px solid;
+    
+    }
+    .texto13 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        padding-bottom: 3px; 
+    }
+    .cabecera14{
+        border: black 1px solid;
+        
+    
+    }
+    .texto15{
+        border: black 1px solid;
+       
+    }
+    .texto15 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        padding-bottom: 3px; 
+        
+    }
+    .cabecera15{
+    
+        border: black 1px solid;
+        
+    }
+    .texto16{
+        margin-left: 120px;
+        margin-top: 5px;      
+    }
+    
+    .texto16 ul li a{
+        color: black;
+        text-decoration: none;
+        display: inline;   
+    }
+    @media  (max-width: 767.98px) {
+        .texto16 li {
+            margin-left: -55px;
+        }
+     }
+    .texto16 ul{
+        list-style: none;
+    }
+    .checkbox5 input{
+        display: inline-block;
+        margin-left: 130px;
+        margin-top: 10px;
+    }
+    @media  (max-width: 767.98px) {
+        .checkbox5 {
+            margin-left:195px;
+            margin-top: -70px;
+             float: right;
+             justify-content: center
+            
+            
+        }
+     }
+    .texto17{
+        
+        border: black 1px solid;
+        
+        
+    
+    }
+    .texto17 h6{
+        margin-top: 10px;
+        padding-bottom: 5px;
+        font-size: 15px;
+        margin-left: 90px;
+    }
+   
+    
+    .cabecera16{
+    
+        border: black 2px solid;
+        background: #F3FBEC;
+
+    }
+    .texto18 h6{
+        margin-top: 5px;
+       
+    }
+
+
+
+
+
+    .cabecera17{
+        border: black 1px solid;
+    
+    }
+    .texto19{
+        margin-left: 100px;
+        text-decoration: none; 
+        margin-top: 5px;  
+    }
+    .texto19 ul{
+        list-style: none;
+    }
+    .texto19 li a{
+        color: black;
+        text-decoration: none;
+        
+    }
+    @media  (max-width: 767.98px) {
+        .texto19 {
+            margin-left:20px;
+            
+        }
+     }
+    .texto20{
+        margin-left: 265px;
+        text-decoration: none; 
+        margin-top: 5px;  
+    }
+    @media  (max-width: 767.98px) {
+        .texto19 {
+            margin-left:20px;
+            
+        }
+     }
+    .texto20 ul{
+        list-style: none;
+    }
+    .texto20 li a{
+        color: black;
+        text-decoration: none;
+        
+    }
+    .checkbox6 input{
+        display: inline-block;
+        vertical-align: center;
+        margin-left: 90px;
+        margin-top: 9px;
+    }
+    @media  (max-width: 767.98px) {
+    .checkbox6 {
+        margin-left:195px;
+        margin-top: -70px;
+         float: right;
+         justify-content: center
+        
+        
+    }
+}
+    .checkbox7 input{
+        display: inline-block;
+        margin-left: 50px;
+        margin-top: 9px;
+    }
+    @media  (max-width: 767.98px) {
+        .checkbox7 {
+            margin-left:195px;
+            margin-top: -70px;
+             float: right;
+             justify-content: center
+            
+            
+        }
+    }
+
+
+
+    .cabecera7{
+    border: black 1px solid;
+
+}
+.texto6{
+    border: black 1px solid;
+
+}
+.texto6 h6{
+    margin-top: 5px;
+    font-size: 15px;
+    margin-left: 15px;
+    
+}
+.cabecera8{
+    border: black 1px solid;
+
+}
+.texto7{
+    border: black 1px solid;
+
+}
+.texto7 h6{
+    margin-top: 5px;
+    font-size: 15px;
+    margin-left: 15px;
+}
+    
+.texto8{
+        border: black 1px solid;
+    
+    }
+ .texto8 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        
+    }
+.cabecera9{
+        border: black 1px solid;
+    
+    }
+.texto9{
+        border: black 1px solid;
+    
+    }
+.texto9 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        padding-bottom: 3px; 
+    }
+    .cabecera10{
+        border: black 1px solid;
+    
+    }
+    .texto10{
+        border: black 1px solid;
+    
+    }
+    .texto10 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        padding-bottom: 3px; 
+    }
+        
+    .texto11{
+            border: black 1px solid;
+        
+        }
+     .texto11 h6{
+            margin-top: 5px;
+            font-size: 15px;
+            margin-left: 15px;
+            padding-bottom: 3px; 
+            
+        }
+    .cabecera11{
+            border: black 2px solid;
+         
+        }
+    .cabecera11 h6 {
+        margin-top: 2px;
+        padding-bottom: 3px; 
+
+    }
+
+
+
+    .cabecera17{
+        border: black 1px solid;
+    
+    }
+    .texto19{
+        margin-left: 80px;
+        text-decoration: none; 
+        margin-top: 5px;  
+    }
+    .texto19 ul{
+        list-style: none;
+    }
+    .texto19 li a{
+        color: black;
+        text-decoration: none;
+        
+    }
+    @media  (max-width: 767.98px) {
+        .texto19 li {
+            margin-left: -70px;
+        }
+     }
+
+    .texto20{
+        margin-left: 30px;
+        text-decoration: none; 
+        margin-top: 5px;  
+    }
+    .texto20 ul{
+        list-style: none;
+    }
+    .texto20 li a{
+        color: black;
+        text-decoration: none;
+        
+    }
+    @media  (max-width: 767.98px) {
+        .texto20 li {
+            margin-left: -20px;
+        }
+     }
+
+    .checkbox6 input{
+        display: inline-block;
+        vertical-align: center;
+        margin-left: 130px;
+        margin-top: 9px;
+    }
+    .checkbox7 input{
+        display: inline-block;
+        margin-left: 130px;
+        margin-top: 9px;
+    }
+
+
+
+
+    .cabecera18{
+        border: black 1px solid;
+    
+    }
+    .texto21{
+        border: black 1px solid;
+    
+    }
+    .texto21 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+        
+    }
+    .cabecera19{
+        border: black 1px solid;
+    
+    }
+    .texto22{
+        border: black 1px solid;
+    
+    }
+    .texto22 h6{
+        margin-top: 5px;
+        font-size: 15px;
+        margin-left: 15px;
+    }
+        
+    .texto23{
+            border: black 1px solid;
+        
+        }
+     .texto23 h6{
+            margin-top: 5px;
+            font-size: 15px;
+            margin-left: 15px;
+            
+        }
+    .cabecera20{
+            border: black 1px solid;
+        
+        }
+    .texto24{
+            border: black 1px solid;
+        
+        }
+    .texto24 h6{
+            margin-top: 5px;
+            font-size: 15px;
+            margin-left: 15px;
+            padding-bottom: 3px; 
+        }
+        .cabecera21{
+            border: black 1px solid;
+        
+        }
+        .texto25{
+            border: black 1px solid;
+        
+        }
+        .texto25 h6{
+            margin-top: 5px;
+            font-size: 15px;
+            margin-left: 15px;
+            padding-bottom: 3px; 
+        }
+            
+        .texto26{
+                border: black 1px solid;
+            
+            }
+         .texto26 h6{
+                margin-top: 5px;
+                font-size: 15px;
+                margin-left: 15px;
+                padding-bottom: 3px; 
+                
+            }
+    
+            .cabecera20{
+                border: black 1px solid;
+            
+            }
+        .texto24{
+                border: black 1px solid;
+            
+            }
+        .texto24 h6{
+                margin-top: 5px;
+                font-size: 15px;
+                margin-left: 15px;
+                padding-bottom: 3px; 
+            }
+
+
+            .cabecera22{
+                border: black 1px solid;
+            
+            }
+            .texto27{
+                border: black 1px solid;
+            
+            }
+            .texto27 h6{
+                margin-top: 5px;
+                font-size: 15px;
+                margin-left: 15px;
+                padding-bottom: 3px; 
+            }
+                
+            .texto28{
+                    border: black 1px solid;
+                
+                }
+             .texto28 h6{
+                    margin-top: 5px;
+                    font-size: 15px;
+                    margin-left: 15px;
+                    padding-bottom: 3px; 
+                    
+                }
+               
+             .texto29 h6{
+                    margin-top: 5px;
+                  
+                    
+                }
+           
+                .cabecera23{
+    
+                    border: black 2px solid;
+                    background: #9CD87F;
+            
+                }
+            
+            
+       
+                .cabecera24{
+                    border: black 1px solid;
+                
+                }
+                .texto30{
+                    border: black 1px solid;
+                
+                }
+                .texto30 h6{
+                    margin-top: 5px;
+                    font-size: 15px;
+                    margin-left: 15px;
+                }
+                    
+                .texto31{
+                        border: black 1px solid;
+                    
+                    }
+                 .texto31 h6{
+                        margin-top: 5px;
+                        font-size: 15px;
+                        margin-left: 15px;
+                        
+                    }
+                .cabecera25{
+                        border: black 1px solid;
+                    
+                    }
+                .texto32{
+                        border: black 1px solid;
+                    
+                    }
+                .texto32 h6{
+                        margin-top: 5px;
+                        font-size: 15px;
+                        margin-left: 15px;
+                        padding-bottom: 3px; 
+                    }
+                    .cabecera26{
+                        border: black 1px solid;
+                    
+                    }
+                    .texto33{
+                        border: black 1px solid;
+                    
+                    }
+                    .texto33 h6{
+                        margin-top: 5px;
+                        font-size: 15px;
+                        margin-left: 15px;
+                        padding-bottom: 3px; 
+                    }
+                        
+                    .texto34{
+                            border: black 1px solid;
+                        
+                        }
+                     .texto34 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            padding-bottom: 3px; 
+                            
+                        }
+
+                        
+                   
+                        .cabecera27{
+            
+                            border: black 2px solid;
+                            background: #9CD87F;
+                    
+                        }
+                        .texto35 h6{
+                            margin-top: 5px;
+                          
+                            
+                        }
+                    
+
+                        .cabecera28{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto36{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto36 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .cabecera29{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto37{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto37 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .texto38{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto38 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .cabecera30{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto40
+                        {
+                            border: black 1px solid;
+                        
+                        }
+                        .texto40 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .texto39{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto39 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .cabecera31{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto41
+                        {
+                            border: black 1px solid;
+                        
+                        }
+                        .texto41 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .texto42{
+                            border: black 1px solid;
+                            
+                        
+                        }
+                        .texto42 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .cabecera32{
+                            border: black 1px solid;
+                        
+                        }
+                        .texto43
+                        {
+                            border: black 1px solid;
+                        
+                        }
+                        .texto43 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .texto44{
+                            border: black 1px solid;
+                    
+                            
+                        
+                        }
+                        .texto44 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+                        .texto44{
+                            border: black 1px solid;
+                    
+                            
+                        
+                        }
+                        .texto45 h6{
+                            margin-top: 5px;
+                            font-size: 15px;
+                            margin-left: 15px;
+                            
+                        }
+
+                        .texto46{
+                        
+                            text-decoration: none; 
+                            margin-top: 10px;  
+                            margin-left: 5px;
+                        }
+                        .texto46 ul{
+                            list-style: none;
+                        }
+                        .texto46 li a{
+                            color: black;
+                            text-decoration: none;
+                            
+                        }
+                        @media  (max-width: 767.98px) {
+                            .texto46 li {
+                                margin-left: 25px;
+                            }
+                         }
+                
+                    .texto47{
+                        
+                        text-decoration: none; 
+                        margin-top: 10px;  
+                        margin-left: 10px;
+                    }
+                    .texto47 ul{
+                        list-style: none;
+                    }
+                    .texto47 li a{
+                        color: black;
+                        text-decoration: none;
+                        
+                    }
+                    @media  (max-width: 767.98px) {
+                        .texto47 li {
+                            margin-left: 22px;
+                        }
+                     }
+                   
+                    .checkbox39 input{
+                        display: inline-block;
+                        margin-left: 60px;
+                        margin-top: 14px;
+                    }
+                    @media  (max-width: 767.98px) {
+                        .checkbox39  {
+                            margin-left:270px;
+                            margin-top: -70px;
+                             float: right;
+                             justify-content: center;
+                            
+                            
+                            
+                        }
+                    }
+                    .checkbox40 input{
+                        display: inline-block;
+                        margin-left: 75px;
+                        margin-top: 14px;
+                    }
+                    @media  (max-width: 767.98px) {
+                        .checkbox40 {
+                            margin-left:255px;
+                            margin-top: -70px;
+                             float: right;
+                             justify-content: center
+                            
+                            
+                        }
+                    }
+                
+                
+                        
+
+
+
+
