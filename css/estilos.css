@@ -62,7 +62,7 @@ header{
 @media( max-width: 579.98px){
     .logosedes img{
         height: 70px;
-        width: 70px;
+        width: 100px;
         float: right;
         margin-top: -210px;
         margin-right: -25px;
@@ -107,7 +107,9 @@ header{
 .textoo2{
     margin-left: 80px;
     margin-top: 5px;
-    float: left;    
+    float: left; 
+    font-size: 16.5px;
+       
 }
 
 .textoo2 ul li a{
@@ -127,7 +129,8 @@ header{
 .textoo3{
     margin-left: 20px;
     text-decoration: none; 
-    margin-top: 5px;
+    margin-top: 14px;
+    font-size: 16.5px;
     
 }
 @media  (max-width: 767.98px) {
@@ -148,7 +151,7 @@ header{
 .checkboxx1 input{
     display: inline-block;
     margin-left: 120px;
-    margin-top: 8px;
+    margin-top: 9px;
 }
 @media  (max-width: 767.98px) {
     .checkboxx1 {
@@ -163,11 +166,20 @@ header{
 .checkboxx2 input{
     display: inline-block;
     margin-left: -10px;
-    margin-top: 8.5px;
+    margin-top: 10px;
+    width: 28px;
+    height: 15px;
+    
 }
+  
+.checkboxx2{
+    
+    color: aquamarine;
+}
+
 @media  (max-width: 767.98px) {
     .checkboxx2  {
-        margin-left: 320px;
+        margin-left: 315px;
          
          float: right;
          margin-top: -157px;
@@ -318,10 +330,10 @@ header{
 }
 @media  (max-width: 767.98px) {
     .checkbox3 {
-        margin-left:195px;
+        margin-left:210px;
         margin-top: -70px;
          float: right;
-         justify-content: center
+        
         
         
     }
@@ -342,10 +354,10 @@ header{
  }
 .cabecera7{
     border: black 1px solid;
-
 }
 .texto6{
-    border: black 1px solid;
+    
+    
 
 }
 .texto6 h6{
@@ -354,12 +366,9 @@ header{
     margin-left: 15px;
     
 }
-.cabecera8{
-    border: black 1px solid;
 
-}
 .texto7{
-    border: black 1px solid;
+    
 
 }
 .texto7 h6{
@@ -369,7 +378,7 @@ header{
 }
     
 .texto8{
-        border: black 1px solid;
+    
     
     }
  .texto8 h6{
@@ -379,11 +388,12 @@ header{
         
     }
 .cabecera9{
-        border: black 1px solid;
-    
+    border: black 1px solid;
+        
     }
 .texto9{
-        border: black 1px solid;
+
+        
     
     }
 .texto9 h6{
@@ -393,11 +403,11 @@ header{
         padding-bottom: 3px; 
     }
     .cabecera10{
-        border: black 1px solid;
+        
     
     }
     .texto10{
-        border: black 1px solid;
+        
     
     }
     .texto10 h6{
@@ -408,7 +418,7 @@ header{
     }
         
     .texto11{
-            border: black 1px solid;
+        
         
         }
      .texto11 h6{
@@ -436,7 +446,7 @@ header{
     
     }
     .texto13{
-        border: black 1px solid;
+        
     
     }
     .texto13 h6{
@@ -451,7 +461,7 @@ header{
     
     }
     .texto15{
-        border: black 1px solid;
+        
        
     }
     .texto15 h6{
@@ -530,7 +540,7 @@ header{
 
 
     .cabecera17{
-        border: black 1px solid;
+        
     
     }
     .texto19{
@@ -610,11 +620,11 @@ header{
 
 }
 .texto6{
-    border: black 1px solid;
+    
 
 }
 .texto6 h6{
-    margin-top: 5px;
+    margin-top: 8px;
     font-size: 15px;
     margin-left: 15px;
     
@@ -624,21 +634,21 @@ header{
 
 }
 .texto7{
-    border: black 1px solid;
+    
 
 }
 .texto7 h6{
-    margin-top: 5px;
+    margin-top: 8px;
     font-size: 15px;
     margin-left: 15px;
 }
     
 .texto8{
-        border: black 1px solid;
+        
     
     }
  .texto8 h6{
-        margin-top: 5px;
+        margin-top: 8px;
         font-size: 15px;
         margin-left: 15px;
         
@@ -648,11 +658,11 @@ header{
     
     }
 .texto9{
-        border: black 1px solid;
+        
     
     }
 .texto9 h6{
-        margin-top: 5px;
+        margin-top: 8px;
         font-size: 15px;
         margin-left: 15px;
         padding-bottom: 3px; 
@@ -662,22 +672,22 @@ header{
     
     }
     .texto10{
-        border: black 1px solid;
+        
     
     }
     .texto10 h6{
-        margin-top: 5px;
+        margin-top: 8px;
         font-size: 15px;
         margin-left: 15px;
         padding-bottom: 3px; 
     }
         
     .texto11{
-            border: black 1px solid;
+            
         
         }
      .texto11 h6{
-            margin-top: 5px;
+            margin-top: 8px;
             font-size: 15px;
             margin-left: 15px;
             padding-bottom: 3px; 
@@ -757,11 +767,11 @@ header{
     
     }
     .texto21{
-        border: black 1px solid;
+    
     
     }
     .texto21 h6{
-        margin-top: 5px;
+        margin-top: 8px;
         font-size: 15px;
         margin-left: 15px;
         
@@ -771,21 +781,21 @@ header{
     
     }
     .texto22{
-        border: black 1px solid;
+        
     
     }
     .texto22 h6{
-        margin-top: 5px;
+        margin-top: 8px;
         font-size: 15px;
         margin-left: 15px;
     }
         
     .texto23{
-            border: black 1px solid;
+            
         
         }
      .texto23 h6{
-            margin-top: 5px;
+            margin-top: 8px;
             font-size: 15px;
             margin-left: 15px;
             
@@ -795,11 +805,11 @@ header{
         
         }
     .texto24{
-            border: black 1px solid;
+            
         
         }
     .texto24 h6{
-            margin-top: 5px;
+            margin-top: 8px;
             font-size: 15px;
             margin-left: 15px;
             padding-bottom: 3px; 
@@ -808,23 +818,17 @@ header{
             border: black 1px solid;
         
         }
-        .texto25{
-            border: black 1px solid;
         
-        }
         .texto25 h6{
-            margin-top: 5px;
+            margin-top: 8px;
             font-size: 15px;
             margin-left: 15px;
             padding-bottom: 3px; 
         }
             
-        .texto26{
-                border: black 1px solid;
-            
-            }
+       
          .texto26 h6{
-                margin-top: 5px;
+                margin-top: 8px;
                 font-size: 15px;
                 margin-left: 15px;
                 padding-bottom: 3px; 
@@ -836,11 +840,11 @@ header{
             
             }
         .texto24{
-                border: black 1px solid;
+            
             
             }
         .texto24 h6{
-                margin-top: 5px;
+                margin-top: 8px;
                 font-size: 15px;
                 margin-left: 15px;
                 padding-bottom: 3px; 
@@ -852,22 +856,21 @@ header{
             
             }
             .texto27{
-                border: black 1px solid;
-            
+                
             }
             .texto27 h6{
-                margin-top: 5px;
+                margin-top: 8px;
                 font-size: 15px;
                 margin-left: 15px;
                 padding-bottom: 3px; 
             }
                 
             .texto28{
-                    border: black 1px solid;
+                   
                 
                 }
              .texto28 h6{
-                    margin-top: 5px;
+                    margin-top: 8px;
                     font-size: 15px;
                     margin-left: 15px;
                     padding-bottom: 3px; 
@@ -894,21 +897,21 @@ header{
                 
                 }
                 .texto30{
-                    border: black 1px solid;
+                   
                 
                 }
                 .texto30 h6{
-                    margin-top: 5px;
+                    margin-top: 8px;
                     font-size: 15px;
                     margin-left: 15px;
                 }
                     
                 .texto31{
-                        border: black 1px solid;
+                      
                     
                     }
                  .texto31 h6{
-                        margin-top: 5px;
+                        margin-top: 8px;
                         font-size: 15px;
                         margin-left: 15px;
                         
@@ -918,11 +921,11 @@ header{
                     
                     }
                 .texto32{
-                        border: black 1px solid;
+                        
                     
                     }
                 .texto32 h6{
-                        margin-top: 5px;
+                        margin-top: 8px;
                         font-size: 15px;
                         margin-left: 15px;
                         padding-bottom: 3px; 
@@ -932,22 +935,22 @@ header{
                     
                     }
                     .texto33{
-                        border: black 1px solid;
+                
                     
                     }
                     .texto33 h6{
-                        margin-top: 5px;
+                        margin-top: 8px;
                         font-size: 15px;
                         margin-left: 15px;
                         padding-bottom: 3px; 
                     }
                         
                     .texto34{
-                            border: black 1px solid;
+                            
                         
                         }
                      .texto34 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             padding-bottom: 3px; 
@@ -974,11 +977,11 @@ header{
                         
                         }
                         .texto36{
-                            border: black 1px solid;
+                            
                         
                         }
                         .texto36 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
@@ -988,21 +991,21 @@ header{
                         
                         }
                         .texto37{
-                            border: black 1px solid;
+                        
                         
                         }
                         .texto37 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
                         }
                         .texto38{
-                            border: black 1px solid;
+                            
                         
                         }
                         .texto38 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
@@ -1013,21 +1016,21 @@ header{
                         }
                         .texto40
                         {
-                            border: black 1px solid;
+                            
                         
                         }
                         .texto40 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
                         }
                         .texto39{
-                            border: black 1px solid;
+                        
                         
                         }
                         .texto39 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
@@ -1038,22 +1041,21 @@ header{
                         }
                         .texto41
                         {
-                            border: black 1px solid;
+                        
                         
                         }
                         .texto41 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
                         }
                         .texto42{
-                            border: black 1px solid;
                             
                         
                         }
                         .texto42 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
@@ -1064,35 +1066,35 @@ header{
                         }
                         .texto43
                         {
-                            border: black 1px solid;
+                
                         
                         }
                         .texto43 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
                         }
                         .texto44{
-                            border: black 1px solid;
+                            
                     
                             
                         
                         }
                         .texto44 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
                         }
                         .texto44{
-                            border: black 1px solid;
+                            
                     
                             
                         
                         }
                         .texto45 h6{
-                            margin-top: 5px;
+                            margin-top: 8px;
                             font-size: 15px;
                             margin-left: 15px;
                             
